@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="pass">Password</string>
+    <string name="mail">Email</string>
+    <string name="display_name">Display Name</string>
+    <string name="update">Update</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="details">Details</string>
+    <string name="pick">Choose Picture</string>
+    <string name="logout">Logout</string>
+    <string name="signIn">SignIn</string>
+</resources>
